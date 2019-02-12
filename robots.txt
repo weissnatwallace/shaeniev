@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xerahtur.iskconstlouis.org/sitemap.xml
